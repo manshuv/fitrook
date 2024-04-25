@@ -1,5 +1,7 @@
 function calculateWeights() {
-    const barWeight = 45; // Standard barbell weight
+    let barWeight = document.getElementById('barWeight').value;
+    barWeight = Number(barWeight); // Standard barbell weight
+    
     let totalWeight = document.getElementById('totalWeight').value;
     totalWeight = Number(totalWeight);
 
