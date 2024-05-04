@@ -14,4 +14,4 @@ FitRook is a web-based application hosted on GitHub Pages. To use the app, simpl
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/fitrook.git
+   git clone https://github.com/manshuv/fitrook.git
